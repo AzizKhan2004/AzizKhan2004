@@ -1,6 +1,6 @@
-<p align="center" style="font-size:40px;"><b>🚀 Mohammed Aziz Khan</b></p>
-<p align="center" style="font-size:26px;">AI • Data Science • Machine Learning</p>
-<p align="center" style="font-size:22px;">Turning data into intelligence | Building AI with impact ⚡</p>
+<p align="center" style="font-size:80px;"><b>🚀 Mohammed Aziz Khan</b></p>
+<p align="center" style="font-size:35px;">AI • Data Science • Machine Learning</p>
+<p align="center" style="font-size:35px;">Turning data into intelligence | Building AI with impact ⚡</p>
 
 
 ---
