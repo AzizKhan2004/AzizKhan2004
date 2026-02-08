@@ -1,10 +1,7 @@
-<p align="center">
-  <h1 align="center">🚀 Mohammed Aziz Khan</h1>
-  <h3 align="center">AI • Data Science • Machine Learning</h3>
-  <p align="center">
-    Turning data into intelligence | Building AI with impact ⚡
-  </p>
-</p>
+<p align="center" style="font-size:40px;"><b>🚀 Mohammed Aziz Khan</b></p>
+<p align="center" style="font-size:26px;">AI • Data Science • Machine Learning</p>
+<p align="center" style="font-size:22px;">Turning data into intelligence | Building AI with impact ⚡</p>
+
 
 ---
 
