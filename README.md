@@ -1,18 +1,96 @@
-# 💫 About Me:
-👨‍💻 I’ve worked on Projects<br><br>AI & Data Science projects focused on NLP, data analytics, and machine learning<br><br>Building an AI-based YouTube Video Summarizer to automate transcription and insights<br><br>Applying data preprocessing, EDA, and model building during my Data Science with AI internship<br><br>🤝 I’m looking to collaborate on<br><br>Open-source AI / ML / Data Analytics projects<br><br>Python-based automation, NLP, or data visualization projects<br><br>Real-world problem-solving projects using machine learning & analytics<br><br>🛠️ I’m looking for help with<br><br>Improving model deployment and MLOps workflows<br><br>Optimizing ML models for performance and scalability<br><br>Advanced deep learning and production-level AI systems<br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning & Deep Learning techniques<br><br>NLP with TensorFlow & PyTorch<br><br>Data visualization and analytics using Power BI & Tableau<br><br>💬 Ask me about<br><br>Python, Machine Learning, NLP<br><br>Data Analysis, SQL, Power BI, Tableau<br><br>AI project development and internships<br><br>⚡ Fun fact<br><br>I enjoy turning raw, messy data into meaningful insights and love experimenting with AI to solve real-world problems 🚀
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/MOHAMMED AZIZ KHAN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azizkhan04/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedazizkhan2004@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AzizKhan2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AzizKhan2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizKhan2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <h1 align="center">🚀 Mohammed Aziz Khan</h1>
+  <h3 align="center">AI • Data Science • Machine Learning</h3>
+  <p align="center">
+    Turning data into intelligence | Building AI with impact ⚡
+  </p>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AzizKhan2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌌 About Me
+
+👋 Hey there! I’m an **AI & Data Science enthusiast** who thrives on solving real-world problems using **machine learning, NLP, and analytics**.  
+I love building systems that **think, learn, and scale** 🚀
+
+---
+
+## 💼 Experience & Projects
+
+### 🤖 AI & Data Science
+- Built and worked on **NLP, ML, and data analytics projects**
+- Strong hands-on experience with **data preprocessing, EDA & modeling**
+
+### 🎥 AI-Based YouTube Video Summarizer
+- Automated **transcription, summarization & insight extraction**
+- Reduced manual video analysis time by **~70%** ⚡
+
+### 🧠 Data Science with AI Internship
+- Real-world exposure to AI pipelines
+- Collaborated on data-driven solutions and model development
+
+---
+
+## 🤝 Collaboration Zone
+
+✨ Open-source **AI / ML / Data Analytics** projects  
+🐍 Python automation, NLP, and data visualization  
+📈 Real-world ML problem solving & experimentation  
+
+---
+
+## 🛠️ Seeking Help With
+
+⚙️ **Model deployment & MLOps workflows**  
+📦 Scaling ML models for production  
+🤖 Advanced deep learning & AI system design  
+
+---
+
+## 🌱 Currently Leveling Up
+
+📘 Advanced **Machine Learning & Deep Learning**  
+🧠 **NLP** with TensorFlow & PyTorch  
+📊 Power BI & Tableau for impactful storytelling  
+
+---
+
+## 💬 Ask Me About
+
+🐍 Python & SQL  
+🤖 Machine Learning & NLP  
+📊 Data Analytics & Visualization  
+🎓 AI projects & internships  
+
+---
+
+## ⚡ Fun Fact
+
+😄 I *genuinely* enjoy cleaning messy datasets  
+✨ Turning chaos into insights is my thing 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://bsky.app/profile/MOHAMMED AZIZ KHAN">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/azizkhan04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohammedazizkhan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Arsenal
+![](https://github-readme-stats.vercel.app/api?username=AzizKhan2004&theme=radical&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=AzizKhan2004&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizKhan2004&theme=radical&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AzizKhan2004&icon=🔥&color=12" />
+</p>
