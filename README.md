@@ -1,4 +1,4 @@
-<h1 align="center"> Mohammed Aziz Khan</h1>
+<h1 align="center"> MOHAMMED AZIZ KHAN</h1>
 <h3 align="center">AI • Data Science • Machine Learning</h3>
 <p align="center">
   Turning data into intelligence | Building AI with impact
