@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Mohammed Aziz Khan</h1>
+<h1 align="center"> Mohammed Aziz Khan</h1>
 <h3 align="center">AI • Data Science • Machine Learning</h3>
 <p align="center">
-  Turning data into intelligence | Building AI with impact ⚡
+  Turning data into intelligence | Building AI with impact
 </p>
 
 
@@ -9,66 +9,53 @@
 
 ---
 
-## 🌌 About Me
+##  About Me
 
-👋 Hey there! I’m an **AI & Data Science enthusiast** who thrives on solving real-world problems using **machine learning, NLP, and analytics**.  
-I love building systems that **think, learn, and scale** 🚀
-
----
-
-## 💼 Experience & Projects
-
-### 🤖 AI & Data Science
-- Built and worked on **NLP, ML, and data analytics projects**
-- Strong hands-on experience with **data preprocessing, EDA & modeling**
-
-### 🎥 AI-Based YouTube Video Summarizer
-- Automated **transcription, summarization & insight extraction**
-- Reduced manual video analysis time by **~70%** ⚡
-
-### 🧠 Data Science with AI Internship
-- Real-world exposure to AI pipelines
-- Collaborated on data-driven solutions and model development
+** Hey there! I’m an **AI & Data Science enthusiast** who thrives on solving real-world problems using **machine learning, NLP, and analytics**.  
+I love building systems that **think, learn, and scale** 
 
 ---
 
-## 🤝 Collaboration Zone
 
-✨ Open-source **AI / ML / Data Analytics** projects  
-🐍 Python automation, NLP, and data visualization  
-📈 Real-world ML problem solving & experimentation  
+---
+
+##  Collaboration Zone
+
+ *Open-source **AI / ML / Data Analytics** projects  
+ *Python automation, NLP, and data visualization  
+ *Real-world ML problem solving & experimentation  
 
 ---
 
 ## 🛠️ Seeking Help With
 
-⚙️ **Model deployment & MLOps workflows**  
-📦 Scaling ML models for production  
-🤖 Advanced deep learning & AI system design  
+ **Model deployment & MLOps workflows**  
+ Scaling ML models for production  
+ Advanced deep learning & AI system design  
 
 ---
 
-## 🌱 Currently Leveling Up
+##  Currently Leveling Up
 
-📘 Advanced **Machine Learning & Deep Learning**  
-🧠 **NLP** with TensorFlow & PyTorch  
-📊 Power BI & Tableau for impactful storytelling  
-
----
-
-## 💬 Ask Me About
-
-🐍 Python & SQL  
-🤖 Machine Learning & NLP  
-📊 Data Analytics & Visualization  
-🎓 AI projects & internships  
+ Advanced **Machine Learning & Deep Learning**  
+ **NLP** with TensorFlow & PyTorch  
+ Power BI & Tableau for impactful storytelling  
 
 ---
 
-## ⚡ Fun Fact
+##  Ask Me About
 
-😄 I *genuinely* enjoy cleaning messy datasets  
-✨ Turning chaos into insights is my thing 🚀
+ Python & SQL  
+Machine Learning & NLP  
+ Data Analytics & Visualization  
+ AI projects & internships  
+
+---
+
+##  Fun Fact
+
+ I *genuinely* enjoy cleaning messy datasets  
+ Turning chaos into insights is my thing 🚀
 
 ---
 
